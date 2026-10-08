@@ -2,7 +2,6 @@
 
 전기차가 출발지에서 도착지까지 이동할 때 **어느 충전소를 경유하고 얼마나 충전할지**를 함께 결정해, 주행 시간·충전 시간·충전 비용의 가중합을 최소화하는 경로 최적화 프로젝트입니다. Google OR-Tools의 Min-Cost Flow와 MILP(CBC)를 사용했습니다.
 
-> 최적화 수업 팀 프로젝트
 
 <p align="center"><img src="assets/mcf_route.png" width="640"></p>
 
